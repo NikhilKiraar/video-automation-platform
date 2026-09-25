@@ -1,0 +1,48 @@
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+client_secret.json
+credentials.json
+token.json
+youtube_token.json
+youtube_token.pkl
+*.pem
+*.key
+
+# Video and media files
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.mp3
+*.wav
+input/
+output/
+processing/
+completed/
+failed/
+Uploaded/
+uploaded/
+
+# Runtime data and logs
+*.log
+*.xlsx
+youtube_uploaded.json
+facebook_schedule.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.csv
