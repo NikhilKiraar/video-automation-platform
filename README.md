@@ -1,88 +1,38 @@
-# ?? Video Automation Platform
+# ğŸ¬ Video Automation Platform
 
-A Python-based video automation platform for automating repetitive video-processing and publishing workflows.
+A Python-based automation system for processing videos, generating short-form clips, and publishing content to YouTube and Facebook using platform APIs.
 
-## ?? Project Demo
+Built as a practical automation project using Python, FFmpeg, scheduling, REST APIs, and file-state management.
 
-**Demo video:** Coming soon
+---
 
-## ?? Overview
+## ğŸ¥ Project Demo
 
-This project automates a video workflow from input processing and FFmpeg-based clip generation to scheduled publishing through platform APIs.
+> Technical demonstration of the working automation system.
 
-## ? Features
+**Demo:** -**â–¶ï¸ Watch the Technical Demo:** https://www.youtube.com/watch?v=osWbjWym-8c
 
-- Automated video processing
-- FFmpeg-based video splitting
-- Configurable clip duration
-- YouTube API integration
-- Facebook/Meta API integration
-- Scheduled publishing workflows
-- File-state management
-- Error handling
-- Upload tracking
-- Environment-based configuration
+---
 
-## ?? Workflow
+## ğŸš€ Overview
+
+The Video Automation Platform automates repetitive video-processing and publishing tasks.
+
+The system takes a source video, processes it with Python and FFmpeg, generates short-form clips, manages files through different processing states, and connects with YouTube and Meta APIs for publishing workflows.
+
+### Main Workflow
 
 ```text
-Video Input
-    
-File Detection
-    
+Video
+   â†“
+Python Automation
+   â†“
 FFmpeg Processing
-    
-Clip Generation
-    
+   â†“
+Short Clips
+   â†“
 Scheduler
-    
-YouTube API / Meta API
-    
-Upload Tracking
-```
-
-## ??? Tech Stack
-
-- Python
-- FFmpeg
-- YouTube Data API
-- Meta Graph API
-- REST APIs
-- python-dotenv
-- Git / GitHub
-
-## ?? Project Structure
-
-```text
-video-automation-platform/
-ÃÄÄ src/
-³   ÃÄÄ main.py
-³   ÃÄÄ split_video.py
-³   ÃÄÄ youtube_uploader.py
-³   ÃÄÄ facebook_uploader.py
-³   ÀÄÄ facebook_scheduler.py
-ÃÄÄ docs/
-ÃÄÄ screenshots/
-ÃÄÄ demo/
-ÃÄÄ examples/
-ÃÄÄ tests/
-ÃÄÄ .env.example
-ÃÄÄ .gitignore
-ÃÄÄ requirements.txt
-ÃÄÄ SECURITY.md
-ÀÄÄ README.md
-```
-
-## ?? Security
-
-API keys, OAuth credentials, access tokens, private videos and runtime data are intentionally excluded from this repository.
-
-See `.env.example` for the configuration structure.
-
-## ????? Author
-
-**Nikhil Kirar**
-
-Python Developer | Automation | AI | SQL | Power BI
-
-Built and maintained as an independent software project.
+   â†“
+YouTube API
+   â†“
+Meta / Facebook API
