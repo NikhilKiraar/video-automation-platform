@@ -1,20 +1,60 @@
-# 🎥 Project Demo
+# \# 🎥 Project Demo
 
-## Video Automation Platform
+# 
 
-A technical demonstration of the working video automation system.
+# \## Video Automation Platform
 
-### Demonstrated
+# 
 
-- Video input
-- Python automation
-- FFmpeg video splitting
-- Clip generation
-- File management
-- Scheduling
-- YouTube publishing
-- Facebook/Meta publishing
+# A technical demonstration of the working Video Automation Platform built with Python, FFmpeg, YouTube API, and Meta/Facebook API.
 
-## Watch the Demo
+# 
 
-▶️ [Watch the Full Technical Demonstration](https://youtu.be/osWbjWym-8c?si=R8wWeJ3AqjeoBGs1)
+# \### Demonstrated
+
+# 
+
+# \- Video input and processing
+
+# \- Python automation
+
+# \- FFmpeg video splitting
+
+# \- Short-form clip generation
+
+# \- File management
+
+# \- Scheduling workflow
+
+# \- YouTube publishing
+
+# \- Facebook/Meta publishing
+
+# 
+
+# \## ▶️ Watch the Demo
+
+# 
+
+# \[Watch the Full Technical Demonstration](https://www.youtube.com/watch?v=osWbjWym-8c)
+
+# 
+
+# \## Source Code
+
+# 
+
+# \[View the project on GitHub](https://github.com/NikhilKiraar/video-automation-platform)
+
+# 
+
+# \## Author
+
+# 
+
+# \*\*Nikhil Kirar\*\*
+
+# 
+
+# Python • SQL • Power BI • AI Automation • Backend Development
+
