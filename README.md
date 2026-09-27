@@ -6,13 +6,22 @@ Built as a practical automation project using Python, FFmpeg, scheduling, REST A
 
 ---
 
-## 🎥 Project Demo
+## 🎥 Project Demos
 
-> Technical demonstration of the working automation system.
+### 🎬 Video Automation Platform
 
-**Demo:** -**▶️ Watch the Technical Demo:** https://www.youtube.com/watch?v=osWbjWym-8c
+Working demonstration of the complete video automation workflow.
 
----
+▶️ **[Watch the Technical Demo](https://www.youtube.com/watch?v=osWbjWym-8c)**
+
+### 📱 Facebook Automation
+
+Working demonstration of the Facebook/Meta publishing automation workflow.
+
+▶️ **[Watch the Facebook Automation Demo](https://youtu.be/NegFGCRLZfM)**
+
+📂 **[View All Project Demos](demo/DEMO.md)** 
+
 
 ## 🚀 Overview
 
