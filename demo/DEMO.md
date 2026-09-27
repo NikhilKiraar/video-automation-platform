@@ -1,8 +1,8 @@
-# \# 🎥 Project Demo
+# \# 🎥 Project Demos
 
 # 
 
-# \## Video Automation Platform
+# \## 🎬 Video Automation Platform
 
 # 
 
@@ -32,23 +32,93 @@
 
 # 
 
-# \## ▶️ Watch the Demo
+# \### ▶️ Watch the Full Technical Demo
 
 # 
 
-# \[Watch the Full Technical Demonstration](https://www.youtube.com/watch?v=osWbjWym-8c)
+# \[Watch the Video Automation Platform Demo](https://www.youtube.com/watch?v=osWbjWym-8c)
 
 # 
 
-# \## Source Code
+# \---
 
 # 
 
-# \[View the project on GitHub](https://github.com/NikhilKiraar/video-automation-platform)
+# \## 📱 Facebook Automation Demo
 
 # 
 
-# \## Author
+# A separate demonstration of the Facebook/Meta publishing automation workflow.
+
+# 
+
+# \### Demonstrated
+
+# 
+
+# \- Facebook automation workflow
+
+# \- Python-based automation
+
+# \- Meta/Facebook API integration
+
+# \- Automated publishing workflow
+
+# \- Scheduling workflow
+
+# 
+
+# \### ▶️ Watch the Facebook Automation Demo
+
+# 
+
+# \[Watch the Facebook Automation Demo](https://youtu.be/NegFGCRLZfM)
+
+# 
+
+# \---
+
+# 
+
+# \## 💻 Source Code
+
+# 
+
+# \[View the Video Automation Platform on GitHub](https://github.com/NikhilKiraar/video-automation-platform)
+
+# 
+
+# \---
+
+# 
+
+# \## 🛠️ Technology
+
+# 
+
+# \- Python
+
+# \- FFmpeg
+
+# \- YouTube Data API
+
+# \- Meta Graph API
+
+# \- REST APIs
+
+# \- Scheduling
+
+# \- File Management
+
+# \- Git \& GitHub
+
+# 
+
+# \---
+
+# 
+
+# \## 👨‍💻 Author
 
 # 
 
@@ -57,4 +127,8 @@
 # 
 
 # Python • SQL • Power BI • AI Automation • Backend Development
+
+# 
+
+# Built and maintained as an independent software project.
 
